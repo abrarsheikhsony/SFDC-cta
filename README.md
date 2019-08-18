@@ -14,4 +14,16 @@
 <li><a href="https://developer.salesforce.com/developer-centers/architecture/" target="_blank" alt="Architecture: Developer Center">Architecture: Developer Center</a></li>
 </ul>
 
+<li>Partner & Success Community Groups</li>
+<ul>
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F930000000blKv" target="_blank" alt="Architect Trailblazer Community">Architect Trailblazer Community</a></li>
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009Q1X" target="_blank" alt="Customer Architect Community">Customer Architect Community</a></li>
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A0000001zan" target="_blank" alt="Ladies Be Architects">Ladies Be Architects</a></li>
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A000000Lm2P" target="_blank" alt="CTA Office Hours">CTA Office Hours</a></li>
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A0000009Vpd" target="_blank" alt="APAC Architects">APAC Architects</a></li>
+<li><a href="https://partners.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009PD5" target="_blank" alt="Trailhead Architect Enablement">Trailhead Architect Enablement</a></li>
 </ul>
+
+</ul>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
