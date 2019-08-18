@@ -8,7 +8,7 @@
 <li><a href="https://ericsantiago.com/2012/05/16/salesforce-technical-architect-certification-part-2-review-board/" target="_blank" alt="Eric Santiago">Eric Santiago</a></li>
 <li><a href="https://enterpriseforcearchitect.com/2014/03/12/my-journey-to-salesforce-com-certified-technical-architect/" target="_blank" alt="Greg Cook">Greg Cook</a></li>
 <li><a href="https://audit9.blog/2012/04/23/salesforce-certified-architect/" target="_blank" alt="Audit9">Audit9</a></li>
-<li><a href="http://bobbuzzard.blogspot.com/2012/02/certified-salesforce-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard)">TEST</a></li>
+<li><a href="http://bobbuzzard.blogspot.com/2012/02/certified-salesforce-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard)">Keir Bowden (bobbuzzard)</a></li>
 <li><a href="http://bobbuzzard.blogspot.com/2012/07/london-sfdc-user-group-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard) - Talk on London User Group">Keir Bowden (bobbuzzard) - Talk on London User Group</a></li>
 </ul>
 
