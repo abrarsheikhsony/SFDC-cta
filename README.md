@@ -3,7 +3,7 @@
 ## Useful Resources
 <ul>
 
-<li>Certified Technical Architect (CTA)</li>
+<li>Certified Technical Architect (CTA) - Review Board Experiences</li>
 <ul>
 <li><a href="http://bobbuzzard.blogspot.com/2012/02/certified-salesforce-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard)">Keir Bowden (bobbuzzard)</a></li>
 <li><a href="http://bobbuzzard.blogspot.com/2012/07/london-sfdc-user-group-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard) - Talk on London User Group">Keir Bowden (bobbuzzard) - Talk on London User Group</a></li>
@@ -14,14 +14,32 @@
 
 
 
+<li>Certified Technical Architect (CTA) - Learning Resources</li>
+<ul>
+<li><a href="https://www.smartdraw.com/entity-relationship-diagram/" target="_blank" alt="Entity Relationship Diagram">Entity Relationship Diagram</a></li>
+<li><a href="https://www.salesforce.com/products/platform/architecture/" target="_blank" alt="Salesforce Reference Architecture Examples">Salesforce Reference Architecture Examples</a></li>
+<li><a href="https://www.salesforce.com/products/commerce-cloud/resources/commerce-cloud-storefront-reference-architecture/#" target="_blank" alt="Salesforce Commerce Cloud Storefront Reference Architecture">Salesforce Commerce Cloud Storefront Reference Architecture</a></li>
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+</ul>
+
+
+
 
 <li>Architect</li>
 <ul>
 <li><a href="https://developer.salesforce.com/page/10_Common_Mistakes_Architects_Make" target="_blank" alt="10 Common Mistakes Architects Make When Building a Force.com Application">10 Common Mistakes Architects Make When Building a Force.com Application</a></li>
 <li><a href="https://developer.salesforce.com/page/Multi_Tenant_Architecture" target="_blank" alt="The Force.com Multitenant Architecture">The Force.com Multitenant Architecture</a></li>
 <li><a href="http://www.developerforce.com/media/ForcedotcomBookLibrary/Force.com_Multitenancy_WP_101508.pdf" target="_blank" alt="The Force.com Multitenant Architecture">The Force.com Multitenant Architecture</a></li>
+</ul>
+
+
+
+<li>Architect - Learning Resources</li>
+<ul>
 <li><a href="https://developer.salesforce.com/page/An_Introduction_to_Environments" target="_blank" alt="An Introduction to Salesforce Environments">An Introduction to Salesforce Environments</a></li>
-<li><a href="https://developer.salesforce.com/developer-centers/security/" target="_blank" alt="Security: Developer Center">Security: Developer Center</a></li>
 </ul>
 
 
@@ -30,6 +48,7 @@
 <li>Developer</li>
 <ul>
 <li><a href="https://developer.salesforce.com/developer-centers/architecture/" target="_blank" alt="Architecture: Developer Center">Architecture: Developer Center</a></li>
+<li><a href="https://developer.salesforce.com/developer-centers/security/" target="_blank" alt="Security: Developer Center">Security: Developer Center</a></li>
 <li><a href="https://developer.salesforce.com/docs/" target="_blank" alt="Developer Guides">Developer Guides</a></li>
 </ul>
 
