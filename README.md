@@ -6,22 +6,31 @@
 <li>Certified Technical Architect (CTA) - Review Board Experiences</li>
 <ul>
 <li><a href="https://www.salesforce.com/blog/2016/11/insights-from-a-salesforce-cta.html" target="_blank" alt="Steven Herod">Steven Herod</a></li>
+
+<li><a href="https://www.linkedin.com/pulse/how-i-became-certified-technical-architect-jannis-bott-/" target="_blank" alt="Jannis Bott">Jannis Bott</a></li>
+
+<li><a href="https://www.linkedin.com/pulse/becoming-salesforce-certified-technical-architect-sam-jenkins/" target="_blank" alt="Becoming a Salesforce Certified Technical Architect.">Becoming a Salesforce Certified Technical Architect.</a></li>
+
+<li><a href="https://www.linkedin.com/pulse/my-journey-become-salesforce-cta-amr-ibrahim" target="_blank" alt="Amr Ibrahim">Amr Ibrahim</a></li>
+
 <li><a href="https://www.linkedin.com/pulse/my-journeytocta-admin-cta-lead-program-architect-sebastian-wagner/" target="_blank" alt="Sebastian Wagner: Journey To CTA">Sebastian Wagner: Journey To CTA</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2018/07/certified-technical-architect-exam-results-trailblazer" target="_blank" alt="Doina Popa: Journey To CTA">Doina Popa: Journey To CTA</a></li>
+
+<li><a href="http://www.alwaysablezard.com/salesforce/guest-blog-cta-journey/" target="_blank" alt="Andrew Hart">Andrew Hart</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2018/12/journey-to-certified-technical-architect" target="_blank" alt="Emely Patra: Journey To CTA">Emely Patra: Journey To CTA</a></li>
+<li><a href="https://archladies.com/meet-a-cta-emely-patra" target="_blank" alt="Emely Patra: Journey To CTA">Emely Patra: Journey To CTA</a></li>
+<li><a href="https://archladies.com/introducing-the-ladies-be-architects-podcast" target="_blank" alt="Carl Brundage">Carl Brundage</a></li>
+
+<li><a href="https://medium.com/@bob_buzzard/salesforce-certified-technical-architect-154a2cf76cd8" target="_blank" alt="Keir Bowden (bobbuzzard)">Keir Bowden (bobbuzzard)</a></li>
+
 <li><a href="http://bobbuzzard.blogspot.com/2012/02/certified-salesforce-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard)">Keir Bowden (bobbuzzard)</a></li>
 <li><a href="http://bobbuzzard.blogspot.com/2012/07/london-sfdc-user-group-technical.html" target="_blank" alt="Keir Bowden (bobbuzzard) - Talk on London User Group">Keir Bowden (bobbuzzard) - Talk on London User Group</a></li>
 <li><a href="https://enterpriseforcearchitect.com/2014/03/12/my-journey-to-salesforce-com-certified-technical-architect/" target="_blank" alt="Greg Cook">Greg Cook</a></li>
 <li><a href="https://audit9.blog/2012/04/23/salesforce-certified-architect/" target="_blank" alt="Audit9">Audit9</a></li>
 <li><a href="https://ericsantiago.com/2012/05/16/salesforce-technical-architect-certification-part-2-review-board/" target="_blank" alt="Eric Santiago">Eric Santiago</a></li>
 
-<li><a href="https://www.salesforce.com/blog/2018/12/journey-to-certified-technical-architect" target="_blank" alt="Emely Patra: Journey To CTA">Emely Patra: Journey To CTA</a></li>
-<li><a href="https://archladies.com/meet-a-cta-emely-patra" target="_blank" alt="Emely Patra">Emely Patra</a></li>
-<li><a href="https://archladies.com/introducing-the-ladies-be-architects-podcast" target="_blank" alt="Carl Brundage">Carl Brundage</a></li>
-<li><a href="http://www.alwaysablezard.com/salesforce/architecture-certifications/my-first-cta-attempt/" target="_blank" alt="Gemma Emmit">Gemma Emmett</a></li>
-
-<li><a href="https://www.salesforce.com/blog/2018/07/certified-technical-architect-exam-results-trailblazer" target="_blank" alt="Doina Popa: Journey To CTA">Doina Popa: Journey To CTA</a></li>
-
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
 
 </ul>
@@ -30,12 +39,20 @@
 
 <li>Certified Technical Architect (CTA) - Learning Resources</li>
 <ul>
+<li><a href="https://www.youtube.com/watch?v=LwxXs3my5aQ" target="_blank" alt="Accenture (Andy Ognenoff): How Your Company Can Support Your #JourneyToCTA">Accenture (Andy Ognenoff): How Your Company Can Support Your #JourneyToCTA</a></li>
+
+<li><a href="http://www.alwaysablezard.com/salesforce/architecture-certifications/my-first-cta-attempt/" target="_blank" alt="Gemma Emmit">Gemma Emmett</a></li>
+
+<li><a href="https://technologyflows.com/2017/06/05/salesforce-cta-review-board-lessons/" target="_blank" alt="Matthew Morris">Matthew Morris</a></li>
+
 <li><a href="https://www.flowrepublic.com/" target="_blank" alt="Sebastian Wagner">Sebastian Wagner</a></li>
 
 <li><a href="http://www.alwaysablezard.com/salesforce/journey-to-cta-starting-out/" target="_blank" alt="Journey to CTA: Gemma Emmett">Journey to CTA: Gemma Emmett</a></li>
 <li><a href="http://www.alwaysablezard.com/salesforce/journeytocta/my-learnings-from-the-cta-601-workshop/" target="_blank" alt="CTA-601 Workshop (Bluewolf Only): Gemma Emmett">CTA-601 Workshop (Bluewolf Only): Gemma Emmett</a></li>
 <li><a href="https://archladies.com/category/cta-review-board" target="_blank" alt="Ladies Be Architects (CTA Mock Review Board)">Ladies Be Architects (CTA Mock Review Board)</a></li>
+
 <li><a href="https://archladies.com/category/stories/allies-stories" target="_blank" alt="Ladies Be Architects (Allies Stories)">Ladies Be Architects (Allies Stories)</a></li>
+
 <li><a href="https://archladies.com/meet-our-awesome-allies-matthew-morris" target="_blank" alt="Ladies Be Architects: Matthew Morris">Ladies Be Architects (Allies Stories): Matthew Morris</a></li>
 <li><a href="https://www.charly-says.com/" target="_blank" alt="Charly Prinsloo">Charly Prinsloo</a></li>
 <li><a href="https://quizlet.com/gemma_emmett/folders/favourite-salesforce-quizlets/sets" target="_blank" alt="Salesforce Architect Designer Exams Quiz: Gemma Emmett">Salesforce Architect Designer Exams Quiz: Gemma Emmett</a></li>
@@ -75,6 +92,9 @@
 
 <li><a href="https://www.salesforce.com/blog/2018/06/certified-technical-architect-review-board-exam-trailblazer.html" target="_blank" alt="Doina Popa: 5 Tips From a Certified Technical Architect on Taking The Review Board Exam">Doina Popa: 5 Tips From a Certified Technical Architect on Taking The Review Board Exam</a></li>
 <li><a href="https://www.salesforce.com/blog/2018/05/certified-architect-diversity.html" target="_blank" alt="Doina Popa: Trailblazer Voices: My Journey Through the Tech World, the Salesforce World, and...Life">Doina Popa: Trailblazer Voices: My Journey Through the Tech World, the Salesforce World, and...Life</a></li>
+<li><a href="https://www.linkedin.com/pulse/shattering-glass-ceilings-inspiring-more-women-path-cta-ben-duncombe" target="_blank" alt="Doina Popa: Shattering glass ceilings and inspiring more women on their path to Salesforce CTA">Doina Popa: Shattering glass ceilings and inspiring more women on their path to Salesforce CTA</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2018/03/what-salesforce-strong-means-to-cynthia-qiao.html" target="_blank" alt="Cynthia Qiao">Cynthia Qiao</a></li>
 
 <li><a href="https://www.salesforceben.com/becoming-a-certified-technical-architect-preparation-cheat-sheet/" target="_blank" alt="Sebastian Wagner: Becoming a Certified Technical Architect: Preparation Cheat Sheet">Sebastian Wagner: Becoming a Certified Technical Architect: Preparation Cheat Sheet</a></li>
 <li><a href="https://pages.convertkit.com/3e5e90be44/d77d5cc684" target="_blank" alt="Sebastian Wagner: 7 Success Strategies For Your #JourneyToCTA">Sebastian Wagner: 7 Success Strategies For Your #JourneyToCTA</a></li>
@@ -85,6 +105,8 @@
 <li><a href="https://insights.thirdrepublic.com/climb-salesforce-ladder-boost-career/" target="_blank" alt="How to be like French Spiderman and climb the Salesforce ladder to success">How to be like French Spiderman and climb the Salesforce ladder to success</a></li>
 
 
+<li><a href="https://www.salesforce.com/blog/2018/04/salesforce-architects.html" target="_blank" alt="4 Reasons Why There's Such a Buzz About Salesforce Architects Right Now">4 Reasons Why There's Such a Buzz About Salesforce Architects Right Now</a></li>
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
