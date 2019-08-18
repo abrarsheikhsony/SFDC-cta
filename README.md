@@ -11,8 +11,10 @@
 <li><a href="https://audit9.blog/2012/04/23/salesforce-certified-architect/" target="_blank" alt="Audit9">Audit9</a></li>
 <li><a href="https://ericsantiago.com/2012/05/16/salesforce-technical-architect-certification-part-2-review-board/" target="_blank" alt="Eric Santiago">Eric Santiago</a></li>
 
+<li><a href="https://archladies.com/meet-a-cta-emely-patra" target="_blank" alt="Emely Patra">Emely Patra</a></li>
+<li><a href="https://archladies.com/introducing-the-ladies-be-architects-podcast" target="_blank" alt="Carl Brundage">Carl Brundage</a></li>
 <li><a href="http://www.alwaysablezard.com/salesforce/architecture-certifications/my-first-cta-attempt/" target="_blank" alt="Gemma Emmit">Gemma Emmett</a></li>
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
@@ -24,11 +26,18 @@
 
 <li>Certified Technical Architect (CTA) - Learning Resources</li>
 <ul>
-<li><a href="https://www.charly-says.com/" target="_blank" alt="Charly Prinsloo">Charly Prinsloo</a></li>
-<li><a href="https://www.youtube.com/channel/UCeEH6YG30ajz2jLBfYoDjRQ" target="_blank" alt="YouTube: Ladies Be Architects">YouTube: Ladies Be Architects</a></li>
 <li><a href="http://www.alwaysablezard.com/salesforce/journey-to-cta-starting-out/" target="_blank" alt="Journey to CTA: Gemma Emmett">Journey to CTA: Gemma Emmett</a></li>
 <li><a href="http://www.alwaysablezard.com/salesforce/journeytocta/my-learnings-from-the-cta-601-workshop/" target="_blank" alt="CTA-601 Workshop (Bluewolf Only): Gemma Emmett">CTA-601 Workshop (Bluewolf Only): Gemma Emmett</a></li>
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://www.youtube.com/channel/UCeEH6YG30ajz2jLBfYoDjRQ" target="_blank" alt="YouTube: Ladies Be Architects">YouTube: Ladies Be Architects</a></li>
+
+<li><a href="https://archladies.com/category/cta-review-board" target="_blank" alt="Ladies Be Architects (CTA Mock Review Board)">Ladies Be Architects (CTA Mock Review Board)</a></li>
+<li><a href="https://archladies.com/category/stories/allies-stories" target="_blank" alt="Ladies Be Architects (Allies Stories)">Ladies Be Architects (Allies Stories)</a></li>
+<li><a href="https://archladies.com/meet-our-awesome-allies-matthew-morris" target="_blank" alt="Ladies Be Architects: Matthew Morris">Ladies Be Architects (Allies Stories): Matthew Morris</a></li>
+
+<li><a href="https://quizlet.com/gemma_emmett/folders/favourite-salesforce-quizlets/sets" target="_blank" alt="Salesforce Architect Designer Exams Quiz: Gemma Emmett">Salesforce Architect Designer Exams Quiz: Gemma Emmett</a></li>
+
+<li><a href="https://www.charly-says.com/" target="_blank" alt="Charly Prinsloo">Charly Prinsloo</a></li>
+
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
@@ -48,6 +57,7 @@
 <li><a href="https://developer.salesforce.com/page/Multi_Tenant_Architecture" target="_blank" alt="The Force.com Multitenant Architecture">The Force.com Multitenant Architecture</a></li>
 <li><a href="http://www.developerforce.com/media/ForcedotcomBookLibrary/Force.com_Multitenancy_WP_101508.pdf" target="_blank" alt="The Force.com Multitenant Architecture">The Force.com Multitenant Architecture</a></li>
 <li><a href="http://salesforcediaries.blogspot.com/2019/06/the-role-of-technical-architect.html" target="_blank" alt="Mitesh Mistry - The Role of the Technical Architect">Mitesh Mistry - The Role of the Technical Architect</a></li>
+
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
