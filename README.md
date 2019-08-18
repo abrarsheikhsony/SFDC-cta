@@ -17,8 +17,9 @@
 <li>Certified Technical Architect (CTA) - Learning Resources</li>
 <ul>
 <li><a href="https://www.smartdraw.com/entity-relationship-diagram/" target="_blank" alt="Entity Relationship Diagram">Entity Relationship Diagram</a></li>
-<li><a href="https://www.salesforce.com/products/platform/architecture/" target="_blank" alt="Salesforce Reference Architecture Examples">Salesforce Reference Architecture Examples</a></li>
-<li><a href="https://www.salesforce.com/products/commerce-cloud/resources/commerce-cloud-storefront-reference-architecture/#" target="_blank" alt="Salesforce Commerce Cloud Storefront Reference Architecture">Salesforce Commerce Cloud Storefront Reference Architecture</a></li>
+<li><a href="https://www.salesforce.com/products/commerce-cloud/resources/commerce-cloud-storefront-reference-architecture/#" target="_blank" alt="Salesforce Reference Architecture - Commerce Cloud Storefront">Salesforce Reference Architecture - Commerce Cloud Storefront</a></li>
+<li><a href="https://www.salesforce.com/products/platform/architecture/" target="_blank" alt="Salesforce Reference Architecture - For Other Products">Salesforce Reference Architecture - For Other Products</a></li>
+
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
