@@ -14,7 +14,7 @@
 <li><a href="https://developer.salesforce.com/developer-centers/architecture/" target="_blank" alt="Architecture: Developer Center">Architecture: Developer Center</a></li>
 </ul>
 
-<li>Partner & Success Community Groups</li>
+<li>Success & Partner Community Groups</li>
 <ul>
 <li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F930000000blKv" target="_blank" alt="Architect Trailblazer Community">Architect Trailblazer Community</a></li>
 <li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009Q1X" target="_blank" alt="Customer Architect Community">Customer Architect Community</a></li>
