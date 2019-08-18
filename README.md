@@ -47,5 +47,3 @@
 </ul>
 
 </ul>
-
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
